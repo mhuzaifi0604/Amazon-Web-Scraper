@@ -3,7 +3,7 @@
 
 # Link to Application Deployed On Vercel:
 ```
-https://amazon-web-scraper-2q79r57gd-mhuzaifi0604s-projects.vercel.app/
+https://amazon-web-scraper-one.vercel.app/
 ```
 
 # Python Script
